@@ -9,3 +9,17 @@
 @font-face{font-family:'OPPOSans-Ver2-Medium';src:url(../../../../etc.clientlibs/global-site/clientlibs/ui.frontend/clientlib-design/resources/fonts/OPPOSansWeb2.woff2) format("woff2"),url(../../../../etc.clientlibs/global-site/clientlibs/ui.frontend/clientlib-design/resources/fonts/OPPOSansWeb2.woff) format("woff"),url(../../../../etc.clientlibs/global-site/clientlibs/ui.frontend/clientlib-design/resources/fonts/OPPOSansWeb2.ttf) format("truetype"),url(../../../../etc.clientlibs/global-site/clientlibs/ui.frontend/clientlib-design/resources/fonts/OPPOSansWeb2.eot) format("embedded-opentype");font-weight:400;font-style:normal;font-display:swap}
 @font-face{font-family:'OPPOSans-Ver2-Regular';src:url(../../../../etc.clientlibs/global-site/clientlibs/ui.frontend/clientlib-design/resources/fonts/OPPOSansWeb2.woff2) format("woff2"),url(../../../../etc.clientlibs/global-site/clientlibs/ui.frontend/clientlib-design/resources/fonts/OPPOSansWeb2.woff) format("woff"),url(../../../../etc.clientlibs/global-site/clientlibs/ui.frontend/clientlib-design/resources/fonts/OPPOSansWeb2.ttf) format("truetype"),url(../../../../etc.clientlibs/global-site/clientlibs/ui.frontend/clientlib-design/resources/fonts/OPPOSansWeb2.eot) format("embedded-opentype");font-weight:400;font-style:normal;font-display:swap}
 @font-face{font-family:'icomoon';src:url(../../../../etc.clientlibs/global-site/clientlibs/ui.frontend/clientlib-design/resources/fonts/icomoon.eot);src:url(../../../../etc.clientlibs/global-site/clientlibs/ui.frontend/clientlib-design/resources/fonts/icomoon.eot#iefix) format("embedded-opentype"),url(../../../../etc.clientlibs/global-site/clientlibs/ui.frontend/clientlib-design/resources/fonts/icomoon.ttf) format("truetype"),url(../../../../etc.clientlibs/global-site/clientlibs/ui.frontend/clientlib-design/resources/fonts/icomoon.woff) format("woff"),url(../../../../cn/assets/src/common/libs/iconmoon/fonts/icomoon.svg#icomoon) format("svg");font-weight:normal;font-style:normal;font-display:block}
+
+## 另一版本
+@font-face {
+	font-family: 'OPPOSans-M';
+	font-style: normal;
+	font-display:swap;
+	src:url('//www.oppo.com/content/dam/oppo/common/fonts/font2/new-font/OPPOSansOS2-5000-Medium.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'OPPOSans-R';
+	font-style: normal;
+	font-display:swap;
+	src:url('//www.oppo.com/content/dam/oppo/common/fonts/font2/new-font/OPPOSansOS2-5000-Regular.woff2') format('woff2');
+}

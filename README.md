@@ -1,2 +1,2 @@
-# 关于
-字体
+# ABOUT
+Font, especially for web use
